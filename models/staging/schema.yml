@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: amplified-cat-375604
+    schema: dezoomcamp
+
+    tables:
+     - name: rides
